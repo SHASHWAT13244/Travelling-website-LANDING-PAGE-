@@ -1,4 +1,4 @@
-# Travelling-website
+# Travelling-website landing page 
 
 Acknowledgements I would like to extend my heartfelt thanks to the following individuals and organizations:
 
